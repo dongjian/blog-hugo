@@ -1,4 +1,9 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL=                    "http://dongjian.github.io/"
 disqusShortname = "dongjian"
+
+title = "dongjian's blog"
+author = "dongjian"
+googleAnalytics="UA-50476358-2"
+canonifyurls = true
+paginate = 3
+hasCJKLanguage=false
